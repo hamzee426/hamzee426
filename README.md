@@ -1,18 +1,95 @@
-![MasterHead](https://thumbs.dreamstime.com/z/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg?w=992)
+![MasterHead](https://user-images.githubusercontent.com/placeholder/banner.png)
+
 <h1 align="center">Hi 👋, I'm Hamza Hussain</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp1867896.jpg">
+<h3 align="center">Software Engineer | Backend & Full-Stack Developer | AI Enthusiast</h3>
 
+<img align="right" alt="Coding" width="380" src="https://wallpapercave.com/wp/wp1867896.jpg"/>
 
-- 🌱 I’m currently learning **JavaScript, React and Node**
+---
 
-- 📫 How to reach me **hamzee426@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 💼 Software Engineer with **2+ years of professional experience**
+- 🚚 Currently working on **enterprise-grade shipping & logistics software**
+- 🧠 Strong in **problem solving, debugging, and code optimization**
+- 🤖 Actively transitioning into **AI / ML & Generative AI**
+- 🌍 Based in **Pakistan**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming Languages
+- JavaScript (ES6+)
+- C#
+- Python
+- SQL
+
+#### 🌐 Web & App Development
+- .NET Framework / .NET
+- React.js
+- Node.js
+- REST APIs
+- WebView2 Integration
+- HTML5, CSS3
+
+#### 🗄️ Databases & Cloud
+- MySQL
+- Firebase
+- SQL Server
+
+#### ⚙️ Tools & Platforms
+- Git & GitHub
+- Visual Studio / VS Code
+- Postman
+- Streamlit (Python)
+
+---
+
+### 🚀 What I’m Working On
+
+- 🔹 Enhancing **high-traffic logistics & e-commerce systems**
+- 🔹 Building **AI-powered applications** (chatbots, automation, ML pipelines)
+- 🔹 Exploring **LLMs, embeddings, and agentic AI**
+- 🔹 Developing real-world side projects for AI portfolio
+
+---
+
+### 📌 Featured Interests
+
+- Backend Architecture
+- AI-Powered Automation
+- Developer Productivity Tools
+- Scalable Desktop & Web Applications
+
+---
+
+### 📫 Connect With Me
+
 <p align="left">
-  <a href="https://khizarfareed.netlify.app" target="blank"><img align="center" src="https://khizarfareed.netlify.app/web-preview-200.png" alt="khizar_fareed_" height="40" width="40" /></a>
-<a href="https://instagram.com/khizar_fareed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khizar_fareed_" height="30" width="40" /></a>
+  <a href="mailto:hamzee426@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://khizarfareed.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+---
+
+⭐ *Always learning. Always building.*
